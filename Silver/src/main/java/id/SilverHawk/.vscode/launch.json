@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "id.SilverHawk.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FatwaTapiBelajar",
+            "request": "launch",
+            "mainClass": "id.SilverHawk.FatwaTapiBelajar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Atomic",
+            "request": "launch",
+            "mainClass": "id.SilverHawk.Atomic"
+        }
+    ]
+}
